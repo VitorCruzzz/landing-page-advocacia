@@ -12,3 +12,6 @@ Abra `index.html` no navegador ou hospede via GitHub Pages. Para publicar pelo P
 - Valide publicidade profissional, acessibilidade, responsividade, SEO e desempenho antes da entrega. Remova `noindex` apenas quando for lançar a versão aprovada.
 
 O projeto não contém dados oficiais do cliente. GitHub Pages normalmente torna a página pública, mesmo que o protótipo original WordPress seja privado.
+
+## Contato demonstrativo
+Com o número vazio em `script.js`, o botão abre uma janela com carregamento de 1,6 segundo e uma conversa ilustrativa identificada como simulação. Não envia dados ou mensagens. Após inserir o número oficial com DDI e DDD, o botão passa a abrir o link `wa.me` com mensagem sugerida, sem necessidade de API ou backend.
